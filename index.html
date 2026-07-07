@@ -967,6 +967,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;color:#1
     <button class="btn" id="tbtn" style="display:none" onclick="toggleTeam()">&#128101; Team</button>
     <button class="btn" id="mgrbtn" style="display:none" onclick="toggleMgr()">&#9881; Outlets</button>
     <button class="btn" id="anabtn" style="display:none" onclick="toggleAnalytics()">&#128202; Analytics</button>
+    <button class="btn" id="intakebtn" style="display:none" onclick="toggleIntake()">&#128203; PMI Intake</button>
     <button class="btn blue" id="ebtn" style="display:none" onclick="exportCSV()">&#8595; Export</button>
     <span id="tu" style="font-size:12px;color:#888"></span>
     <button class="btn" onclick="doLogout()">Sign out</button>
@@ -1144,6 +1145,7 @@ function connectFirebase(cfg){
             var me=document.getElementById('mob-ebtn');if(me)me.style.display='';
             var mg=document.getElementById('mgrbtn');if(mg)mg.style.display='';
             var an=document.getElementById('anabtn');if(an)an.style.display='';
+            var ik=document.getElementById('intakebtn');if(ik)ik.style.display='';
           } else {
             var mem=members.find(function(x){return x.username===cUser;});
             var fn=mem?mem.fullname:cUser;
@@ -1254,6 +1256,7 @@ function doLogin(){
     var mt=document.getElementById('mob-tbtn');if(mt)mt.style.display='';
     var mgrbtn=document.getElementById('mgrbtn');if(mgrbtn)mgrbtn.style.display='';
     var anabtn=document.getElementById('anabtn');if(anabtn)anabtn.style.display='';
+    var ikbtn=document.getElementById('intakebtn');if(ikbtn)ikbtn.style.display='';
     var me=document.getElementById('mob-ebtn');if(me)me.style.display='';
     boot();
   } else {
@@ -2799,6 +2802,11 @@ window.addEventListener('load',function(){
   <div id="anaContent"></div>
 </div>
 
+<!-- PMI INTAKE PANEL -->
+<div class="ana-panel" id="intakePanel">
+  <div id="intakeContent"></div>
+</div>
+
 
 <!-- INACTIVITY WARNING -->
 <div id="inactivityWarn" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:9999;align-items:center;justify-content:center">
@@ -2810,5 +2818,8 @@ window.addEventListener('load',function(){
   </div>
 </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js" integrity="sha512-XMVd28F1oH/O71fzwBnV7HucLxVwtxf26XV8P4wPk26EDxuGZ91N8bsOttmnomcCD3CS5ZMRL50H0GgOHvegtg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdn.jsdelivr.net/npm/exceljs@4.4.0/dist/exceljs.min.js" integrity="sha384-Pqp51FUN2/qzfxZxBCtF0stpc9ONI6MYZpVqmo8m20SoaQCzf+arZvACkLkirlPz" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="pmi-intake.js"></script>
 </body>
 </html>

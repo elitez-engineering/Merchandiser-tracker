@@ -1,0 +1,1020 @@
+{
+  "source": "PM Distribution Check H2 2026 (as at 26 Jun 2026).xlsx \u2014 Priority1 - OC A #1266, row 2 headers",
+  "generatedNote": "Distributor derived from header cell fill colour: Red=PMI, Blue=BAT, Green=JTI, Orange/theme=Other (independents). Column order matches the master Excel exactly (col 13 = Excel col M) so exports can be written back column-for-column.",
+  "colorCoding": {
+    "PMI": "#FF0000",
+    "BAT": "#0070C0",
+    "JTI": "#00B050",
+    "OTHER": "#ED7D31"
+  },
+  "skus": [
+    {
+      "excelCol": 13,
+      "name": "L&M Blue Line",
+      "distributor": "PMI",
+      "brand": "L&M",
+      "abbr": "LM"
+    },
+    {
+      "excelCol": 14,
+      "name": "L&M Blue Line XL",
+      "distributor": "PMI",
+      "brand": "L&M",
+      "abbr": "LM"
+    },
+    {
+      "excelCol": 15,
+      "name": "L&M Chill Menthol",
+      "distributor": "PMI",
+      "brand": "L&M",
+      "abbr": "LM"
+    },
+    {
+      "excelCol": 16,
+      "name": "L&M Double Forward XL",
+      "distributor": "PMI",
+      "brand": "L&M",
+      "abbr": "LM"
+    },
+    {
+      "excelCol": 17,
+      "name": "L&M Double Purple Blast",
+      "distributor": "PMI",
+      "brand": "L&M",
+      "abbr": "LM"
+    },
+    {
+      "excelCol": 18,
+      "name": "L&M Electro Blast",
+      "distributor": "PMI",
+      "brand": "L&M",
+      "abbr": "LM"
+    },
+    {
+      "excelCol": 19,
+      "name": "L&M Extra Menthol",
+      "distributor": "PMI",
+      "brand": "L&M",
+      "abbr": "LM"
+    },
+    {
+      "excelCol": 20,
+      "name": "L&M Fast Forward",
+      "distributor": "PMI",
+      "brand": "L&M",
+      "abbr": "LM"
+    },
+    {
+      "excelCol": 21,
+      "name": "L&M Green Line",
+      "distributor": "PMI",
+      "brand": "L&M",
+      "abbr": "LM"
+    },
+    {
+      "excelCol": 22,
+      "name": "L&M Green Line XL",
+      "distributor": "PMI",
+      "brand": "L&M",
+      "abbr": "LM"
+    },
+    {
+      "excelCol": 23,
+      "name": "L&M Red Line",
+      "distributor": "PMI",
+      "brand": "L&M",
+      "abbr": "LM"
+    },
+    {
+      "excelCol": 24,
+      "name": "L&M Red Line XL",
+      "distributor": "PMI",
+      "brand": "L&M",
+      "abbr": "LM"
+    },
+    {
+      "excelCol": 25,
+      "name": "Marlboro Advance Silver",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 26,
+      "name": "Marlboro Black Menthol",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 27,
+      "name": "Marlboro Crafted Alpine Mint",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 28,
+      "name": "Marlboro Crafted Gold",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 29,
+      "name": "Marlboro Crafted Ice Dew XL",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 30,
+      "name": "Marlboro Crafted Ice XL",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 31,
+      "name": "Marlboro Crafted Mint Storm",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 32,
+      "name": "Marlboro Crafted Red",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 33,
+      "name": "Marlboro Double Burst",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 34,
+      "name": "Marlboro Gold",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 35,
+      "name": "Marlboro Gold 25s",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 36,
+      "name": "Marlboro Gold 2P",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 37,
+      "name": "Marlboro Mega Ice Blast",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 38,
+      "name": "Marlboro Menthol",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 39,
+      "name": "Marlboro Menthol 2P",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 40,
+      "name": "Marlboro Red",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 41,
+      "name": "Marlboro Red 25s",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 42,
+      "name": "Marlboro Red 2P",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 43,
+      "name": "Marlboro Splash Mega Purple",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 44,
+      "name": "Marlboro White Menthol",
+      "distributor": "PMI",
+      "brand": "Marlboro",
+      "abbr": "MB"
+    },
+    {
+      "excelCol": 45,
+      "name": "Next Blue",
+      "distributor": "PMI",
+      "brand": "Next",
+      "abbr": "NX"
+    },
+    {
+      "excelCol": 46,
+      "name": "Next Blue XL",
+      "distributor": "PMI",
+      "brand": "Next",
+      "abbr": "NX"
+    },
+    {
+      "excelCol": 47,
+      "name": "Next Chill Blast",
+      "distributor": "PMI",
+      "brand": "Next",
+      "abbr": "NX"
+    },
+    {
+      "excelCol": 48,
+      "name": "Next Chill Blast XL",
+      "distributor": "PMI",
+      "brand": "Next",
+      "abbr": "NX"
+    },
+    {
+      "excelCol": 49,
+      "name": "Next Menthol",
+      "distributor": "PMI",
+      "brand": "Next",
+      "abbr": "NX"
+    },
+    {
+      "excelCol": 50,
+      "name": "Next Menthol XL",
+      "distributor": "PMI",
+      "brand": "Next",
+      "abbr": "NX"
+    },
+    {
+      "excelCol": 51,
+      "name": "Next Purple Blast XL",
+      "distributor": "PMI",
+      "brand": "Next",
+      "abbr": "NX"
+    },
+    {
+      "excelCol": 52,
+      "name": "Next Red",
+      "distributor": "PMI",
+      "brand": "Next",
+      "abbr": "NX"
+    },
+    {
+      "excelCol": 53,
+      "name": "Next Red XL",
+      "distributor": "PMI",
+      "brand": "Next",
+      "abbr": "NX"
+    },
+    {
+      "excelCol": 54,
+      "name": "Sampoerna A Menthol",
+      "distributor": "PMI",
+      "brand": "Sampoerna",
+      "abbr": "SPA"
+    },
+    {
+      "excelCol": 55,
+      "name": "Sampoerna A Red",
+      "distributor": "PMI",
+      "brand": "Sampoerna",
+      "abbr": "SPA"
+    },
+    {
+      "excelCol": 56,
+      "name": "Sampoerna U Menthol",
+      "distributor": "PMI",
+      "brand": "Sampoerna",
+      "abbr": "SPA"
+    },
+    {
+      "excelCol": 57,
+      "name": "Virginia Slims Fine Menthol",
+      "distributor": "PMI",
+      "brand": "Virginia",
+      "abbr": "VS"
+    },
+    {
+      "excelCol": 58,
+      "name": "Benson & Hedges Gold",
+      "distributor": "BAT",
+      "brand": "Benson",
+      "abbr": "BH"
+    },
+    {
+      "excelCol": 59,
+      "name": "Consulate Menthol",
+      "distributor": "BAT",
+      "brand": "Consulate",
+      "abbr": "CNS"
+    },
+    {
+      "excelCol": 60,
+      "name": "Dunhill Blue",
+      "distributor": "BAT",
+      "brand": "Dunhill",
+      "abbr": "DH"
+    },
+    {
+      "excelCol": 61,
+      "name": "Dunhill Menthol",
+      "distributor": "BAT",
+      "brand": "Dunhill",
+      "abbr": "DH"
+    },
+    {
+      "excelCol": 62,
+      "name": "Dunhill Red",
+      "distributor": "BAT",
+      "brand": "Dunhill",
+      "abbr": "DH"
+    },
+    {
+      "excelCol": 63,
+      "name": "Dunhill Switch",
+      "distributor": "BAT",
+      "brand": "Dunhill",
+      "abbr": "DH"
+    },
+    {
+      "excelCol": 64,
+      "name": "J-Series LS Blue",
+      "distributor": "BAT",
+      "brand": "J-Series",
+      "abbr": "JS"
+    },
+    {
+      "excelCol": 65,
+      "name": "J-Series LS Blue Extra",
+      "distributor": "BAT",
+      "brand": "J-Series",
+      "abbr": "JS"
+    },
+    {
+      "excelCol": 66,
+      "name": "J-Series LS Menthol",
+      "distributor": "BAT",
+      "brand": "J-Series",
+      "abbr": "JS"
+    },
+    {
+      "excelCol": 67,
+      "name": "J-Series LS Menthol Boost",
+      "distributor": "BAT",
+      "brand": "J-Series",
+      "abbr": "JS"
+    },
+    {
+      "excelCol": 68,
+      "name": "J-Series LS Menthol Boost Extra",
+      "distributor": "BAT",
+      "brand": "J-Series",
+      "abbr": "JS"
+    },
+    {
+      "excelCol": 69,
+      "name": "J-Series LS Purple Boost Extra",
+      "distributor": "BAT",
+      "brand": "J-Series",
+      "abbr": "JS"
+    },
+    {
+      "excelCol": 70,
+      "name": "J-Series LS Red",
+      "distributor": "BAT",
+      "brand": "J-Series",
+      "abbr": "JS"
+    },
+    {
+      "excelCol": 71,
+      "name": "J-Series LS Red Extra",
+      "distributor": "BAT",
+      "brand": "J-Series",
+      "abbr": "JS"
+    },
+    {
+      "excelCol": 72,
+      "name": "Kent Blue",
+      "distributor": "BAT",
+      "brand": "Kent",
+      "abbr": "KT"
+    },
+    {
+      "excelCol": 73,
+      "name": "London Gold",
+      "distributor": "BAT",
+      "brand": "London",
+      "abbr": "LDG"
+    },
+    {
+      "excelCol": 74,
+      "name": "Pall Mall Blue",
+      "distributor": "BAT",
+      "brand": "Pall",
+      "abbr": "PM"
+    },
+    {
+      "excelCol": 75,
+      "name": "Pall Mall Krystal Storm",
+      "distributor": "BAT",
+      "brand": "Pall",
+      "abbr": "PM"
+    },
+    {
+      "excelCol": 76,
+      "name": "Pall Mall Menthol",
+      "distributor": "BAT",
+      "brand": "Pall",
+      "abbr": "PM"
+    },
+    {
+      "excelCol": 77,
+      "name": "Pall Mall Red",
+      "distributor": "BAT",
+      "brand": "Pall",
+      "abbr": "PM"
+    },
+    {
+      "excelCol": 78,
+      "name": "Viceroy Blue Switch",
+      "distributor": "BAT",
+      "brand": "Viceroy",
+      "abbr": "VCR"
+    },
+    {
+      "excelCol": 79,
+      "name": "Viceroy Hokkaido Mint  Blue Boost",
+      "distributor": "BAT",
+      "brand": "Viceroy",
+      "abbr": "VCR"
+    },
+    {
+      "excelCol": 80,
+      "name": "Viceroy Hokkaido Mint  Fuji Boost",
+      "distributor": "BAT",
+      "brand": "Viceroy",
+      "abbr": "VCR"
+    },
+    {
+      "excelCol": 81,
+      "name": "Viceroy Hokkaido Mint  Green Cool",
+      "distributor": "BAT",
+      "brand": "Viceroy",
+      "abbr": "VCR"
+    },
+    {
+      "excelCol": 82,
+      "name": "Viceroy Hokkaido Mint  Melo Boost",
+      "distributor": "BAT",
+      "brand": "Viceroy",
+      "abbr": "VCR"
+    },
+    {
+      "excelCol": 83,
+      "name": "Viceroy Hokkaido  Mint Menthol",
+      "distributor": "BAT",
+      "brand": "Viceroy",
+      "abbr": "VCR"
+    },
+    {
+      "excelCol": 84,
+      "name": "Viceroy Hokkaido Mint  Menthol Super",
+      "distributor": "BAT",
+      "brand": "Viceroy",
+      "abbr": "VCR"
+    },
+    {
+      "excelCol": 85,
+      "name": "Viceroy Hokkaido Mint  Purple Boost",
+      "distributor": "BAT",
+      "brand": "Viceroy",
+      "abbr": "VCR"
+    },
+    {
+      "excelCol": 86,
+      "name": "Viceroy Hokkaido Mint  Sakura Boost",
+      "distributor": "BAT",
+      "brand": "Viceroy",
+      "abbr": "VCR"
+    },
+    {
+      "excelCol": 87,
+      "name": "Viceroy Red Switch",
+      "distributor": "BAT",
+      "brand": "Viceroy",
+      "abbr": "VCR"
+    },
+    {
+      "excelCol": 88,
+      "name": "Camel Extra Menthol Longs",
+      "distributor": "JTI",
+      "brand": "Camel",
+      "abbr": "CML"
+    },
+    {
+      "excelCol": 89,
+      "name": "Camel Filters",
+      "distributor": "JTI",
+      "brand": "Camel",
+      "abbr": "CML"
+    },
+    {
+      "excelCol": 90,
+      "name": "Camel Filters Longs",
+      "distributor": "JTI",
+      "brand": "Camel",
+      "abbr": "CML"
+    },
+    {
+      "excelCol": 91,
+      "name": "Camel Menthol",
+      "distributor": "JTI",
+      "brand": "Camel",
+      "abbr": "CML"
+    },
+    {
+      "excelCol": 92,
+      "name": "Camel Menthol Blast",
+      "distributor": "JTI",
+      "brand": "Camel",
+      "abbr": "CML"
+    },
+    {
+      "excelCol": 93,
+      "name": "Camel Menthol Blast Longs",
+      "distributor": "JTI",
+      "brand": "Camel",
+      "abbr": "CML"
+    },
+    {
+      "excelCol": 94,
+      "name": "Camel Menthol Longs",
+      "distributor": "JTI",
+      "brand": "Camel",
+      "abbr": "CML"
+    },
+    {
+      "excelCol": 95,
+      "name": "Camel Non Filter",
+      "distributor": "JTI",
+      "brand": "Camel",
+      "abbr": "CML"
+    },
+    {
+      "excelCol": 96,
+      "name": "Camel Purple Blast",
+      "distributor": "JTI",
+      "brand": "Camel",
+      "abbr": "CML"
+    },
+    {
+      "excelCol": 97,
+      "name": "Camel Purple Blast Longs",
+      "distributor": "JTI",
+      "brand": "Camel",
+      "abbr": "CML"
+    },
+    {
+      "excelCol": 98,
+      "name": "Camel Tokyo Blast Double Lemon",
+      "distributor": "JTI",
+      "brand": "Camel",
+      "abbr": "CML"
+    },
+    {
+      "excelCol": 99,
+      "name": "Camel White",
+      "distributor": "JTI",
+      "brand": "Camel",
+      "abbr": "CML"
+    },
+    {
+      "excelCol": 100,
+      "name": "Camel White Longs",
+      "distributor": "JTI",
+      "brand": "Camel",
+      "abbr": "CML"
+    },
+    {
+      "excelCol": 101,
+      "name": "LD Blue",
+      "distributor": "JTI",
+      "brand": "LD",
+      "abbr": "LD"
+    },
+    {
+      "excelCol": 102,
+      "name": "LD Blue Longs",
+      "distributor": "JTI",
+      "brand": "LD",
+      "abbr": "LD"
+    },
+    {
+      "excelCol": 103,
+      "name": "LD Cool Blast Longs",
+      "distributor": "JTI",
+      "brand": "LD",
+      "abbr": "LD"
+    },
+    {
+      "excelCol": 104,
+      "name": "LD Frozen Blast",
+      "distributor": "JTI",
+      "brand": "LD",
+      "abbr": "LD"
+    },
+    {
+      "excelCol": 105,
+      "name": "LD Frozen Purple",
+      "distributor": "JTI",
+      "brand": "LD",
+      "abbr": "LD"
+    },
+    {
+      "excelCol": 106,
+      "name": "LD Frozen Zoom",
+      "distributor": "JTI",
+      "brand": "LD",
+      "abbr": "LD"
+    },
+    {
+      "excelCol": 107,
+      "name": "LD Menthol",
+      "distributor": "JTI",
+      "brand": "LD",
+      "abbr": "LD"
+    },
+    {
+      "excelCol": 108,
+      "name": "LD Menthol Longs",
+      "distributor": "JTI",
+      "brand": "LD",
+      "abbr": "LD"
+    },
+    {
+      "excelCol": 109,
+      "name": "LD Red",
+      "distributor": "JTI",
+      "brand": "LD",
+      "abbr": "LD"
+    },
+    {
+      "excelCol": 110,
+      "name": "LD Red Longs",
+      "distributor": "JTI",
+      "brand": "LD",
+      "abbr": "LD"
+    },
+    {
+      "excelCol": 111,
+      "name": "Mevius Option",
+      "distributor": "JTI",
+      "brand": "Mevius",
+      "abbr": "MV"
+    },
+    {
+      "excelCol": 112,
+      "name": "Mevius Option  Fizzy Dew",
+      "distributor": "JTI",
+      "brand": "Mevius",
+      "abbr": "MV"
+    },
+    {
+      "excelCol": 113,
+      "name": "Mevius Original Blue",
+      "distributor": "JTI",
+      "brand": "Mevius",
+      "abbr": "MV"
+    },
+    {
+      "excelCol": 114,
+      "name": "Mevius Original Menthol",
+      "distributor": "JTI",
+      "brand": "Mevius",
+      "abbr": "MV"
+    },
+    {
+      "excelCol": 115,
+      "name": "Mevius Sky Blue",
+      "distributor": "JTI",
+      "brand": "Mevius",
+      "abbr": "MV"
+    },
+    {
+      "excelCol": 116,
+      "name": "Mevius Wind Blue",
+      "distributor": "JTI",
+      "brand": "Mevius",
+      "abbr": "MV"
+    },
+    {
+      "excelCol": 117,
+      "name": "Winston Blue",
+      "distributor": "JTI",
+      "brand": "Winston",
+      "abbr": "WD"
+    },
+    {
+      "excelCol": 118,
+      "name": "Winston Blue Longs",
+      "distributor": "JTI",
+      "brand": "Winston",
+      "abbr": "WD"
+    },
+    {
+      "excelCol": 119,
+      "name": "Winston Classic",
+      "distributor": "JTI",
+      "brand": "Winston",
+      "abbr": "WD"
+    },
+    {
+      "excelCol": 120,
+      "name": "Winston Classic Longs",
+      "distributor": "JTI",
+      "brand": "Winston",
+      "abbr": "WD"
+    },
+    {
+      "excelCol": 121,
+      "name": "235 Red",
+      "distributor": "OTHER",
+      "brand": "235",
+      "abbr": "235"
+    },
+    {
+      "excelCol": 122,
+      "name": "Break Full Flavor",
+      "distributor": "OTHER",
+      "brand": "Break",
+      "abbr": "BRK"
+    },
+    {
+      "excelCol": 123,
+      "name": "Break Ice Cool",
+      "distributor": "OTHER",
+      "brand": "Break",
+      "abbr": "BRK"
+    },
+    {
+      "excelCol": 124,
+      "name": "Break Light",
+      "distributor": "OTHER",
+      "brand": "Break",
+      "abbr": "BRK"
+    },
+    {
+      "excelCol": 125,
+      "name": "Break Menthol",
+      "distributor": "OTHER",
+      "brand": "Break",
+      "abbr": "BRK"
+    },
+    {
+      "excelCol": 126,
+      "name": "Djarum Super",
+      "distributor": "OTHER",
+      "brand": "Djarum",
+      "abbr": "DJ"
+    },
+    {
+      "excelCol": 127,
+      "name": "Double Happiness",
+      "distributor": "OTHER",
+      "brand": "Double",
+      "abbr": "DHP"
+    },
+    {
+      "excelCol": 128,
+      "name": "Easy Gold",
+      "distributor": "OTHER",
+      "brand": "Easy",
+      "abbr": "EZ"
+    },
+    {
+      "excelCol": 129,
+      "name": "Easy Menthol",
+      "distributor": "OTHER",
+      "brand": "Easy",
+      "abbr": "EZ"
+    },
+    {
+      "excelCol": 130,
+      "name": "Easy Red",
+      "distributor": "OTHER",
+      "brand": "Easy",
+      "abbr": "EZ"
+    },
+    {
+      "excelCol": 131,
+      "name": "Gudang Garam Signature",
+      "distributor": "OTHER",
+      "brand": "Gudang",
+      "abbr": "GG"
+    },
+    {
+      "excelCol": 132,
+      "name": "Gudang Garam Surya Pro",
+      "distributor": "OTHER",
+      "brand": "Gudang",
+      "abbr": "GG"
+    },
+    {
+      "excelCol": 133,
+      "name": "Gudang Garam Surya Pro Menthol",
+      "distributor": "OTHER",
+      "brand": "Gudang",
+      "abbr": "GG"
+    },
+    {
+      "excelCol": 134,
+      "name": "Half Time 5 Full Flavor",
+      "distributor": "OTHER",
+      "brand": "Half",
+      "abbr": "HT"
+    },
+    {
+      "excelCol": 135,
+      "name": "Half Time 5 Ice",
+      "distributor": "OTHER",
+      "brand": "Half",
+      "abbr": "HT"
+    },
+    {
+      "excelCol": 136,
+      "name": "Half Time Chill",
+      "distributor": "OTHER",
+      "brand": "Half",
+      "abbr": "HT"
+    },
+    {
+      "excelCol": 137,
+      "name": "Iplay Green",
+      "distributor": "OTHER",
+      "brand": "Iplay",
+      "abbr": "IPL"
+    },
+    {
+      "excelCol": 138,
+      "name": "Iplay Ice Cool",
+      "distributor": "OTHER",
+      "brand": "Iplay",
+      "abbr": "IPL"
+    },
+    {
+      "excelCol": 139,
+      "name": "Iplay Red",
+      "distributor": "OTHER",
+      "brand": "Iplay",
+      "abbr": "IPL"
+    },
+    {
+      "excelCol": 140,
+      "name": "Peony Chinese Tob",
+      "distributor": "OTHER",
+      "brand": "Peony",
+      "abbr": "PNY"
+    },
+    {
+      "excelCol": 141,
+      "name": "Playoff Menthol",
+      "distributor": "OTHER",
+      "brand": "Playoff",
+      "abbr": "PLO"
+    },
+    {
+      "excelCol": 142,
+      "name": "Playoff Red",
+      "distributor": "OTHER",
+      "brand": "Playoff",
+      "abbr": "PLO"
+    },
+    {
+      "excelCol": 143,
+      "name": "Playoff Silver",
+      "distributor": "OTHER",
+      "brand": "Playoff",
+      "abbr": "PLO"
+    },
+    {
+      "excelCol": 144,
+      "name": "Score Filters",
+      "distributor": "OTHER",
+      "brand": "Score",
+      "abbr": "SCR"
+    },
+    {
+      "excelCol": 145,
+      "name": "Score Ice Cool",
+      "distributor": "OTHER",
+      "brand": "Score",
+      "abbr": "SCR"
+    },
+    {
+      "excelCol": 146,
+      "name": "Score Lights",
+      "distributor": "OTHER",
+      "brand": "Score",
+      "abbr": "SCR"
+    },
+    {
+      "excelCol": 147,
+      "name": "Score Menthol",
+      "distributor": "OTHER",
+      "brand": "Score",
+      "abbr": "SCR"
+    },
+    {
+      "excelCol": 148,
+      "name": "Texas 5 Green",
+      "distributor": "OTHER",
+      "brand": "Texas",
+      "abbr": "TX"
+    },
+    {
+      "excelCol": 149,
+      "name": "Texas 5 Menthol Ice",
+      "distributor": "OTHER",
+      "brand": "Texas",
+      "abbr": "TX"
+    },
+    {
+      "excelCol": 150,
+      "name": "Texas 5 Red",
+      "distributor": "OTHER",
+      "brand": "Texas",
+      "abbr": "TX"
+    },
+    {
+      "excelCol": 151,
+      "name": "United Blue",
+      "distributor": "OTHER",
+      "brand": "United",
+      "abbr": "UTD"
+    },
+    {
+      "excelCol": 152,
+      "name": "United Green",
+      "distributor": "OTHER",
+      "brand": "United",
+      "abbr": "UTD"
+    },
+    {
+      "excelCol": 153,
+      "name": "United Iced Cool",
+      "distributor": "OTHER",
+      "brand": "United",
+      "abbr": "UTD"
+    },
+    {
+      "excelCol": 154,
+      "name": "United Red",
+      "distributor": "OTHER",
+      "brand": "United",
+      "abbr": "UTD"
+    },
+    {
+      "excelCol": 155,
+      "name": "United Topaz",
+      "distributor": "OTHER",
+      "brand": "United",
+      "abbr": "UTD"
+    },
+    {
+      "excelCol": 156,
+      "name": "Yuxi Red",
+      "distributor": "OTHER",
+      "brand": "Yuxi",
+      "abbr": "YX"
+    }
+  ]
+}

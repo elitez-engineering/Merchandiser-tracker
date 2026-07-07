@@ -1,0 +1,6 @@
+name = "pmi-sku-ocr"
+main = "src/index.ts"
+compatibility_date = "2026-06-01"
+
+# Set the real secret with: wrangler secret put ANTHROPIC_API_KEY
+# (never commit the key itself — this file only declares the binding name).
